@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />-->
 
-    <com.garyhu.radardemo.PolylineView
+    <com.garyhu.radardemo.widget.PolylineView
         android:id="@+id/scoreTrend"
         android:background="#ffffff"
         android:layout_width="match_parent"

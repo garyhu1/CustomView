@@ -1,4 +1,4 @@
-package com.garyhu.radardemo;
+package com.garyhu.radardemo.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;

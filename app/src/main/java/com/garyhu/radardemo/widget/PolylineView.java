@@ -1,4 +1,4 @@
-package com.garyhu.radardemo;
+package com.garyhu.radardemo.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -14,6 +14,8 @@ import android.util.Log;
 import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.garyhu.radardemo.R;
 
 import java.util.ArrayList;
 import java.util.List;

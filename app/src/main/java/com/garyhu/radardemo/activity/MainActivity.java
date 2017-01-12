@@ -1,7 +1,10 @@
-package com.garyhu.radardemo;
+package com.garyhu.radardemo.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.garyhu.radardemo.widget.PolylineView;
+import com.garyhu.radardemo.R;
 
 import java.util.Random;
 

@@ -5,4 +5,17 @@
         <attr name="min_score" format="integer"/>
         <attr name="broken_line_color" format="color"/>
     </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_cropType" format="enum">
+            <enum name="centerTop" value="0"/>
+            <enum name="leftTop" value="1"/>
+            <enum name="center" value="2"/>
+        </attr>
+        <attr name="civ_outCircleColor" format="color"/>
+        <attr name="civ_outCircleWidth" format="dimension"/>
+        <attr name="civ_innerCircleColor" format="color"/>
+        <attr name="civ_innerCircleWidth" format="dimension"/>
+    </declare-styleable>
+
 </resources>

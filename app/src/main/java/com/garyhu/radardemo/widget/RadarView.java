@@ -1,4 +1,4 @@
-package com.garyhu.radardemo;
+package com.garyhu.radardemo.widget;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -11,6 +11,8 @@ import android.graphics.Point;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.View;
+
+import com.garyhu.radardemo.R;
 
 /**
  * 作者： garyhu.
