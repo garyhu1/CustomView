@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<com.garyhu.radardemo.RadarView
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+    <!--<com.garyhu.radardemo.StarView
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+    <com.garyhu.radardemo.PolylineView
+        android:id="@+id/scoreTrend"
+        android:background="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="300dp" />
+</RelativeLayout>
